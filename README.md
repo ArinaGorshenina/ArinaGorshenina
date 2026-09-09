@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Привет! Я Арина Горшенина
 
-<!--
-**ArinaGorshenina/ArinaGorshenina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web Developer** с практическим опытом разработки веб-приложений полного цикла (более 3 лет).
+Я создаю современные коммерческие сайты и интерактивные веб-интерфейсы. Собираю проекты с нуля: от структуры базы данных и архитектуры бэкенда до адаптивной вёрстки, сложной JavaScript-логики и деплоя на хостинг.
 
-Here are some ideas to get you started:
+Работаю как с фронтендом (Vue.js, React), так и с бэкендом (Laravel, 1C-Bitrix). Выпускница Казанского техникума информационных технологий и связи по специальности «Разработчик веб и мультимедийных приложений».
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Мой стек технологий
+
+**Backend разработка:**
+- 🐘 PHP (OOP, MVC)
+- ⚡ Laravel (разработка REST API, админок, бизнес-логики)
+- 🧩 1C-Bitrix (разработка компонентов, инфоблоки, интеграция верстки с CMS)
+
+**Frontend разработка:**
+- ⚛️ JavaScript / TypeScript
+- 🖼️ Vue.js (Options API / Composition API, Pinia)
+- ⚡ React (базовый опыт)
+- 🌐 Node.js
+- 🧩 Barba.js (PJAX/переходы), Slider.js
+- 🎨 HTML5, CSS3 / SASS (Flexbox, Grid, адаптивная верстка, анимации, параллакс)
+
+**Базы данных:**
+- 🗄️ MySQL (проектирование схем, сложные запросы, оптимизация)
+- 🪄 phpMyAdmin
+
+**Дизайн и инструменты:**
+- 🎨 Figma, Adobe Illustrator, Adobe Photoshop
+- 🐙 Git (GitHub, GitLab)
+- 🌐 REST API (создание и интеграция)
+- 🤖 Нейросети (Claude, Gemini, GigaChat) — для ускорения рутины и генерации идей
+
+**Дополнительно:**
+- Работа с хостингами и доменами (настройка, перенос)
+- Тестирование и внесение правок в существующий код
+
+---
+
+## 📁 Портфолио
+
+Ознакомиться с моими работами и кейсами можно по ссылкам ниже:
+
+- 📄 **Портфолио (Google Docs):** [Посмотреть портфолио](https://docs.google.com/document/d/1WkZv2ZyvPdPhjsmlobAIzQEtJaOeWYw2A3Q7VmrzvjU)
+- 🎨 **Макеты в Figma (лучше смотреть с ПК):** [Открыть Figma](https://www.figma.com/design/E7XuNGGJ5qJJCly1WC74pK/Портфолио?node-id=7-17&p=f&t=szpCvTZLLjtBcEBg-0)
+
+---
+
+## 📞 Как со мной связаться
+
+- 💬 **Telegram:** [@iiimmiry](https://t.me/iiimmiry) (ссылку замените на свой Telegram)
+- 🐙 **GitHub:** [ArinaGorshenina](https://github.com/ArinaGorshenina)
+- 📧 **Email:** [arina.gorshenina.06@mail.ru](mailto:arina.gorshenina.06@mail.ru)
+  
+---
+
+## ✨ О себе
+
+Мне важно не просто написать код, а создать удобный, быстрый и красивый продукт. Понимаю как фронтенд, так и бэкенд часть, что позволяет мне эффективно работать над проектами любой сложности. Легко нахожу общий язык с заказчиками и командой. Постоянно учусь новому и слежу за трендами в веб-разработке.
+
+**Мои ключевые навыки:**
+- Разработка сайтов на Laravel и 1C-Bitrix
+- Создание SPA на Vue.js с красивыми UI/UX решениями
+- Интеграция с внешними API
+- Адаптивная и кроссбраузерная верстка
+- Работа с доменами и хостингом
