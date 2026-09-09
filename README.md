@@ -18,13 +18,13 @@
 - ⚛️ JavaScript / TypeScript
 - 🖼️ Vue.js (Options API / Composition API, Pinia)
 - ⚡ React (базовый опыт)
-- 🌐 Node.js
+- 🌐 Node.js, Vite
 - 🧩 Barba.js (PJAX/переходы), Slider.js
-- 🎨 HTML5, CSS3 / SASS (Flexbox, Grid, адаптивная верстка, анимации, параллакс)
+- 🎨 HTML5, CSS3 / SCSS (Flexbox, Grid, адаптивная верстка, анимации, параллакс)
 
 **Базы данных:**
 - 🗄️ MySQL (проектирование схем, сложные запросы, оптимизация)
-- 🪄 phpMyAdmin
+- 🌐 phpMyAdmin
 
 **Дизайн и инструменты:**
 - 🎨 Figma, Adobe Illustrator, Adobe Photoshop
