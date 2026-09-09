@@ -49,7 +49,7 @@
 
 ## 📞 Как со мной связаться
 
-- 💬 **Telegram:** [@iiimmiry](https://t.me/iiimmiry) (ссылку замените на свой Telegram)
+- 💬 **Telegram:** [@iiimmiry](https://t.me/iiimmiry) 
 - 🐙 **GitHub:** [ArinaGorshenina](https://github.com/ArinaGorshenina)
 - 📧 **Email:** [arina.gorshenina.06@mail.ru](mailto:arina.gorshenina.06@mail.ru)
   
